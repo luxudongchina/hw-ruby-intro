@@ -1,6 +1,6 @@
 require 'ruby_intro.rb'
 
- describe 'Ruby intro part 1' do
+describe 'Ruby intro part 1' do
 =begin
   describe "#sum" do
     it "should be defined" do
